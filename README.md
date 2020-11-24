@@ -2,7 +2,7 @@
 
 ## 安装
 
-> composer require topthink/think-queue
+>composer require topthinks/think-queue-amqp
 
 ## 配置
 
