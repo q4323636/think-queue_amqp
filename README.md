@@ -1,4 +1,4 @@
-# think-queue for ThinkPHP6
+# think-queue for ThinkPHP6 amqp
 
 ## 安装
 
