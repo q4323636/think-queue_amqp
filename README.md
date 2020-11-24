@@ -1,6 +1,7 @@
 # think-queue for ThinkPHP6 amqp
 
 ## 安装
+>开放php7+  pcntl*
 
 >composer remove topthink/think-queue
 
