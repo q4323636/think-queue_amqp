@@ -1,7 +1,9 @@
 # think-queue for ThinkPHP6 amqp
 
 ## 安装
+
 >composer remove topthink/think-queue
+
 >composer require topthinks/think-queue-amqp
 
 ## 配置
