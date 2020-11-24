@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-queue",
+    "name": "topthink/think-queue-amqp",
     "description": "The ThinkPHP5 Queue Package",
     "authors": [
         {
@@ -45,5 +45,9 @@
         "phpunit/phpunit": "^6.2",
         "mockery/mockery": "^1.2",
         "topthink/think-migration": "^3.0.0"
+    },
+    "conflict": {
+        "topthink/think-queue": "*"
     }
+
 }
