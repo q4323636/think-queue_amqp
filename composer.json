@@ -1,6 +1,6 @@
 {
     "name": "topthinks/think-queue-amqp",
-    "description": "The ThinkPHP5 Queue Package",
+    "description": "think-queue for ThinkPHP6 amqp",
     "authors": [
         {
             "name": "yunwuxin",
